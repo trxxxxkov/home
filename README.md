@@ -1,2 +1,1 @@
-# home
-Personal portfolio website
+# https://trxxxxkov.net
